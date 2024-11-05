@@ -1,0 +1,48 @@
+---
+title: "Martina Guillermo"
+author: "Martina Guillermo"
+date: "`r Sys.Date()`"
+format: html
+toc: true
+toc-depth: 2
+navbar:
+  title: "Martina Guillermo"
+  right:
+    - text: "About Me"
+      href: "#about-me"
+    - text: "Projects"
+      href: "#projects"
+    - text: "Blog"
+      href: "#blog"
+    - text: "Contact"
+      href: "#contact"
+---
+
+# About Me
+
+![Martina Guillermo](pictures/IMG_6042_1.JPG)
+
+I am a Data Manager and Research Analyst with extensive experience in epidemiological research and data analysis. Currently, I work at **InnovaLab - Health Innovation Lab** at Cayetano Heredia University, where I conduct epidemiological analyses to explore the relationship between infectious diseases and various sociodemographic, climatic, and environmental factors. Additionally, I serve as a **Data Manager** for the **PISACC** study, funded by the **National Institutes of Health (NIH)**, and the **IMPACT Salud** study, funded by the **National Institute for Health and Care Research (NIHR), UK**. My expertise includes statistical modeling, spatial data analysis, and the implementation of research tools like REDCap and Power BI. I am passionate about applying data-driven approaches to tackle complex public health challenges, especially in the field of infectious diseases.
+
+# Projects
+
+- **IMPACT Salud**: Data management and analytics for healthcare interventions.
+- **PISAAC**: Overseeing data processes for innovative health studies.
+- **Freedom From Infection**: Tool development for monitoring malaria transmission.
+- **Vaccination Studies**: Research on vaccine acceptance and seroprevalence in Peruvian communities.
+
+# Blog
+
+- [Post Title 1](#) - Brief description or summary.
+- [Post Title 2](#) - Brief description or summary.
+
+# Contact
+
+Feel free to reach out to me through the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Martina%20Guillermo-blue)](https://linkedin.com/in/martinaguillermo)
+[![GitHub](https://img.shields.io/badge/GitHub-Martina%20Guillermo-lightgrey)](https://github.com/MartinaGR)
+[![Email](https://img.shields.io/badge/Email-drmartinagr%40gmail.com-red)](mailto:drmartinagr@gmail.com)
+
+---
+
